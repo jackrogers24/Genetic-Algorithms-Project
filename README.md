@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Please refer to the following instructions file to understand the project structure and how to run included files: <a href="https://github.com/jrogers2400/Genetic-Algorithms-Project/blob/main/MiniProject1-Instructions.ipynb">Project Instructions</a>
+This project is hosted by Jupyter Notebook. Please refer to the following instructions file to understand the project structure and how to run included files: <a href="https://github.com/jrogers2400/Genetic-Algorithms-Project/blob/main/MiniProject1-Instructions.ipynb">Project Instructions</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -48,6 +48,7 @@ Please refer to the following instructions file to understand the project struct
 
 * [Python](https://www.python.org/)
 * [Matplotlib](https://matplotlib.org/)
+* [Jupyter Notebook](https://jupyter.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
